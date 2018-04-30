@@ -1,0 +1,7 @@
+OpRouting\ParseINIResponseRaw.class
+OpRouting\SwaggerConfig.class
+OpRouting\ParseINIResponsePartnumber.class
+OpRouting\ParseINIRestService.class
+OpRouting\PVController.class
+OpRouting\PartNumberRoutingConfiguration.class
+OpRouting\ParseINIResponse.class
